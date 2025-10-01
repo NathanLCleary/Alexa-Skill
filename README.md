@@ -10,7 +10,7 @@
 |--------------|------------------|
 | **Languages** | python |
 | **Technologies** | voice-recognition/api |
-| **Frameworks** | none |
+| **Frameworks** | alexa-skills-kit |
 | **Status** | academic |
 | **Year** | 2024 |
 | **Featured** | false |
